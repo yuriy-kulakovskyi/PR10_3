@@ -1,0 +1,2 @@
+SortByStoreTest.SortsCorrectly 1 0.00304471
+---
